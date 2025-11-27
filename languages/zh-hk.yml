@@ -54,7 +54,7 @@ menu:
 search:
   activeHolder: 打字啦～我幫你搵
   blurHolder: 搵緊資料中⋯
-  noResult: $0? 搵唔到lor,404嚟㗎 你睇下打錯未呀～
+  noResult: $0? 搵唔到lor,404嚟㗎⋯ 你睇下打錯未呀～
 
 footer:
   publish: 呢個網站用愛發電～
