@@ -49,7 +49,7 @@ menu:
     name: 分類
     plural: 分類堆
   empty: 冇嘢喎～
-  total: 總共幾多個：$0
+  total: 總共幾多個
 
 search:
   activeHolder: 打字啦～我幫你搵
@@ -59,7 +59,7 @@ search:
 footer:
   publish: 呢個網站用愛發電～
   theme: 用緊嘅主題係
-  by: 主題作者係邊個$0
+  by: 主題作者係邊個
 
 valine:
   placeHolder: 呢條評論會由企鵝物流速遞送出～
