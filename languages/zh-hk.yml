@@ -59,7 +59,7 @@ search:
 footer:
   publish: 呢個網站用愛發電～
   theme: 用緊嘅主題係
-  by: 主題作者係邊個：$0
+  by: 主題作者係邊個$0
 
 valine:
   placeHolder: 呢條評論會由企鵝物流速遞送出～
