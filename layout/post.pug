@@ -68,12 +68,12 @@ block content
           - fix = "justify-content: flex-start"
         #pages(style=fix)
           if prev !== undefined
-            .footer-link(style="width: 50%;text-align:right;border-right:1px #fe2 solid")
+            .footer-link(style="width: 50%;text-align:right;border-right:1px #2bf solid")
               a(href=url_for(prev.path))
                 |#{__('post.next')}
                 = ' ' + prev.title
           if next !== undefined
-            .footer-link(style="width: 50%;right:1px;border-left:1px #fe2 solid")
+            .footer-link(style="width: 50%;right:1px;border-left:1px #2bf solid")
               a(href=url_for(next.path))
                 = next.title + ' '
                 |#{__('post.prev')}
