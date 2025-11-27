@@ -3,63 +3,63 @@ name: english
 
 page:
   readMore: READ MORE +
-  noTag: empty
-  noCategory: NO CATEGORY
-  sticky: TOP
+  noTag: No tags yet~
+  noCategory: Uh-oh, no category!
+  sticky: Pinned on top 🎯
 
 busuanzi:
-  loading: "loading..."
-  siteView: "Site View: "
-  siteVisitor: "Visitor: "
-  pageView: "Page View: "
+  loading: "Hang tight… loading spooky stats..."
+  siteView: "Total Site Views: "
+  siteVisitor: "Creepy Visitors: "
+  pageView: "This Page's Views: "
 
 post:
-  posted: "First Post: "
-  edited: "Last Update: "
-  countTotal: "Word Count: "
-  timeTotal: "Read Time: "
-  timeUnit: min
-  index: Catalog
-  reward: reward
-  noTitle: No Title
-  next: ← Next
-  prev: Prev →
+  posted: "First appeared on: "
+  edited: "Last updated on: "
+  countTotal: "Total words (yes, I counted): "
+  timeTotal: "Read time (roughly): "
+  timeUnit: mins
+  index: Table of Secrets 🧙
+  reward: Send me good vibes 💰
+  noTitle: Oops, forgot the title!
+  next: ← Next one's here
+  prev: Previous one's → over there
 
 encrypt:
-  confirm: confirm
+  confirm: I solemnly swear to unlock this 🔓
 
 code:
-  codeInfo: $0 - $1 lines
-  copy: copy
+  codeInfo: From line $0 to $1 — magic starts here!
+  copy: Copied! Zap! ⚡
 
 btn:
-  index: To Catalog
-  totop: To Top
-  colorMode: Change Theme
+  index: Back to Journal
+  totop: Zoom to Top ↑
+  colorMode: Flip the Theme Switch 🎛️
 
 menu:
   archive:
-    name: Archive
-    plural: Archives
-  navigation: NAVIGATION
+    name: Journal
+    plural: Journals
+  navigation: MAP & MENU
   tag:
     name: Tag
     plural: Tags
   category:
     name: Category
     plural: Categories
-  empty: None.
-  total: Total
+  empty: Nothing here... yet 👻
+  total: Total Count
 
 search:
-  activeHolder: Enter here
-  blurHolder: Search
-  noResult: Data "$0" not found
+  activeHolder: Type to summon content...
+  blurHolder: Searching the arcane...
+  noResult: $0? Nada. 404 from the beyond 👀
 
 footer:
-  publish: Published with
-  theme: Theme
-  by: by
+  publish: Powered by ghosts & coffee ☕
+  theme: Theme in use
+  by: Crafted by
 
 valine:
-  placeHolder: This comment is sent by Penguin Logistics.
+  placeHolder: Your message will be air-dropped by Penguin Logistics 🐧📦
