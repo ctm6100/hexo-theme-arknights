@@ -54,12 +54,12 @@ menu:
 search:
   activeHolder: 打字啦～ 我幫你搵
   blurHolder: 想搵資料? 打喺呢度啦～
-  noResult: $0? 搵唔到lor, ERROR 404嚟㗎⋯ 你睇下喺咪打錯咗呀～
+  noResult: $0? 搵唔到lor, ERROR 404嚟㗎⋯ 你睇下喺咪打錯咗啦～
 
 footer:
-  publish: 呢個網站用愛發電～
+  publish: 呢個網站喺用愛發電～
   theme: 用緊嘅主題係
   by: 主題作者係邊個
 
 valine:
-  placeHolder: 呢條評論會由企鵝物流速遞送出～
+  placeHolder: 呢條評論喺由企鵝物流速遞送出～
