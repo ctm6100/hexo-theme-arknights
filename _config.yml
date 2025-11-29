@@ -15,8 +15,8 @@ color: auto
 
 # <body> link to background image 背景图片链接
 background_image:
-  dark: https://ak.hypergryph.com/assets/index/images/ak/pc/bk.jpg # 暗色模式
-  light: /img/bk.jpg # 亮色模式
+  dark: /img/BG_ComputerCenter_Off.jpg # 暗色模式
+  light: /img/BG_ComputerCenter_Blur.jpg # 亮色模式
 
 # Navigation Bar 导航栏
 menu:
