@@ -1,7 +1,7 @@
 # 标签页图标
 favicon:
   type: "image/x-icon"
-  href: "/favicon.ico"
+  href: "/pink_icon_rec.ico"
 
 # canvas 动态背景
 canvas_dust: true

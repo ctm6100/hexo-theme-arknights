@@ -11,7 +11,7 @@ busuanzi:
   loading: "等陣吖，緊係加載緊啦..."
   siteView: "全站總瀏覽量："
   siteVisitor: "入嚟八卦過嘅人數："
-  pageView: "呢頁睇咗幾多次："
+  pageView: "呢頁俾人睇咗幾多次："
 
 post:
   posted: "發佈時間喺："
@@ -40,21 +40,21 @@ btn:
 menu:
   archive:
     name: 系統日誌
-    plural: 系統日誌
-  navigation: 導覽路線圖
+    plural: 系統日誌s
+  navigation: 有咩玩意？
   tag:
     name: 標籤
-    plural: 標籤堆
+    plural: 標籤籮
   category:
     name: 分類
     plural: 分類堆
   empty: 冇嘢喎～
-  total: 總共幾多個
+  total: 總共喺
 
 search:
-  activeHolder: 打字啦～我幫你搵
-  blurHolder: 搵緊資料中⋯
-  noResult: $0? 搵唔到lor, 404嚟㗎⋯ 你睇下喺咪打錯咗呀～
+  activeHolder: 打字啦～ 我幫你搵
+  blurHolder: 想搵資料? 打喺呢度啦～
+  noResult: $0? 搵唔到lor, ERROR 404嚟㗎⋯ 你睇下喺咪打錯咗呀～
 
 footer:
   publish: 呢個網站用愛發電～
