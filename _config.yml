@@ -1,7 +1,7 @@
 # 标签页图标
 favicon:
   type: "image/x-icon"
-  href: "/After-School_Sweets_Club_icon_rec.ico"
+  href: "/icon_rec.ico"
 
 # canvas 动态背景
 canvas_dust: true
